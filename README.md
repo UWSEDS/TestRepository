@@ -1,5 +1,7 @@
 # TestRepository
 
+TESTING
+
 This is a repository for demonstrating the process of doing a pull request.
 
 The README is a useful file for including general informnation about the repository and its contents.
