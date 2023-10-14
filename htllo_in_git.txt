@@ -1,1 +1,2 @@
 Hello world in git.
+Add a new line in the txt file.
